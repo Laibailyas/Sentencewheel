@@ -63,7 +63,7 @@
           {
             width: "38",
             height: "38",
-            src: "/images/logo-dark-background-38.png",
+            src: "./images/logo-dark-background-38.png",
           },
           null,
           -1
@@ -4478,7 +4478,7 @@
                                         type: "image",
                                         style: { height: "40px" },
                                         alt: "Sign in with Google",
-                                        src: "/images/btn_google_signin_dark_normal_web@2x.png",
+                                        src: "./images/btn_google_signin_dark_normal_web@2x.png",
                                         onClick: l[1] || (l[1] = (e) => f()),
                                       }),
                                     ]),

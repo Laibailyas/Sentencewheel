@@ -1487,7 +1487,7 @@
               (e.shadowOffsetY = 4),
               (e.shadowBlur = 10),
               (e.lineWidth = this.wheelRadius - this.hubRadius + 10);
-            const t = this.imageCache.getImage("./image/brushed-metal.png");
+            const t = this.imageCache.getImage("./images/brushed-metal.png");
             (e.strokeStyle = e.createPattern(t, "repeat")),
               e.beginPath(),
               e.arc(0, 0, (this.wheelRadius + this.hubRadius) / 2, -l / 2, l / 2),
@@ -1553,54 +1553,54 @@
       },
       98578: (e, a) => {
         a.p = [
-          { fileName: "./image/autumn-leaves.jpg", title: "Autumn leaves" },
-          { fileName: "./image/beach-ball.jpg", title: "Beach ball" },
+          { fileName: "./images/autumn-leaves.jpg", title: "Autumn leaves" },
+          { fileName: "./images/beach-ball.jpg", title: "Beach ball" },
           {
-            fileName: "./image/birth-of-the-universe.jpg",
+            fileName: "./images/birth-of-the-universe.jpg",
             title: "Birth of the universe",
           },
           {
-            fileName: "./image/blue-frost-pattern.jpg",
+            fileName: "./images/blue-frost-pattern.jpg",
             title: "Blue frost pattern",
           },
           {
-            fileName: "./image/blue-glowing-vortex.jpg",
+            fileName: "./images/blue-glowing-vortex.jpg",
             title: "Blue glowing vortex",
           },
-          { fileName: "./image/blue-swirl.jpg", title: "Blue swirl" },
-          { fileName: "./image/caffe-latte.jpg", title: "Caffe latte" },
-          { fileName: "./image/cat-portrait.jpg", title: "Cat portrait" },
+          { fileName: "./images/blue-swirl.jpg", title: "Blue swirl" },
+          { fileName: "./images/caffe-latte.jpg", title: "Caffe latte" },
+          { fileName: "./images/cat-portrait.jpg", title: "Cat portrait" },
           {
-            fileName: "./image/chocolate-chip-cookie.jpg",
+            fileName: "./images/chocolate-chip-cookie.jpg",
             title: "Chocolate chip cookie",
           },
           {
-            fileName: "./image/christmas-wrapping-paper.jpg",
+            fileName: "./images/christmas-wrapping-paper.jpg",
             title: "Christmas wrapping paper",
           },
-          { fileName: "./image/disco-ball.jpg", title: "Disco ball" },
-          { fileName: "./image/dog-portrait.jpg", title: "Dog portrait" },
-          { fileName: "./image/donut.jpg", title: "Donut" },
-          { fileName: "./image/gerbera-flower.jpg", title: "Gerbera flower" },
-          { fileName: "./image/globe.jpg", title: "Globe" },
-          { fileName: "./image/green-grass.jpg", title: "Green grass" },
-          { fileName: "./image/green-leaves.jpg", title: "Green leaves" },
-          { fileName: "./image/halloween.jpg", title: "Halloween" },
-          { fileName: "./image/moon.jpg", title: "Moon" },
-          { fileName: "./image/night-sky.jpg", title: "Night sky" },
-          { fileName: "./image/orange-slice.jpg", title: "Orange slice" },
-          { fileName: "./image/palm-trees.jpg", title: "Palm trees" },
-          { fileName: "./image/rainbow.jpg", title: "Rainbow" },
-          { fileName: "./image/soccer-ball.jpg", title: "Soccer ball" },
-          { fileName: "./image/spiral-nebula.jpg", title: "Spiral nebula" },
-          { fileName: "./image/spiral-tie-dye.jpg", title: "Spiral tie-dye" },
-          { fileName: "./image/star-trails.jpg", title: "Star trails" },
-          { fileName: "./image/water-in-pool.jpg", title: "Water in pool" },
-          { fileName: "./image/water-swirl.jpg", title: "Water swirl" },
-          { fileName: "./image/whirlpool.jpg", title: "Whirlpool" },
-          { fileName: "./image/wood.jpg", title: "Wood" },
+          { fileName: "./images/disco-ball.jpg", title: "Disco ball" },
+          { fileName: "./images/dog-portrait.jpg", title: "Dog portrait" },
+          { fileName: "./images/donut.jpg", title: "Donut" },
+          { fileName: "./images/gerbera-flower.jpg", title: "Gerbera flower" },
+          { fileName: "./images/globe.jpg", title: "Globe" },
+          { fileName: "./images/green-grass.jpg", title: "Green grass" },
+          { fileName: "./images/green-leaves.jpg", title: "Green leaves" },
+          { fileName: "./images/halloween.jpg", title: "Halloween" },
+          { fileName: "./images/moon.jpg", title: "Moon" },
+          { fileName: "./images/night-sky.jpg", title: "Night sky" },
+          { fileName: "./images/orange-slice.jpg", title: "Orange slice" },
+          { fileName: "./images/palm-trees.jpg", title: "Palm trees" },
+          { fileName: "./images/rainbow.jpg", title: "Rainbow" },
+          { fileName: "./images/soccer-ball.jpg", title: "Soccer ball" },
+          { fileName: "./images/spiral-nebula.jpg", title: "Spiral nebula" },
+          { fileName: "./images/spiral-tie-dye.jpg", title: "Spiral tie-dye" },
+          { fileName: "./images/star-trails.jpg", title: "Star trails" },
+          { fileName: "./images/water-in-pool.jpg", title: "Water in pool" },
+          { fileName: "./images/water-swirl.jpg", title: "Water swirl" },
+          { fileName: "./images/whirlpool.jpg", title: "Whirlpool" },
+          { fileName: "./images/wood.jpg", title: "Wood" },
           {
-            fileName: "./image/year-of-the-tiger.jpg",
+            fileName: "./images/year-of-the-tiger.jpg",
             title: "Year of the Tiger",
           },
         ];
@@ -3018,7 +3018,7 @@
                     (0, t._)("div", ne, [
                       (0, t._)("div", se, [
                         (0, t._)("img", {
-                          src: "./image/color-wheel.png",
+                          src: "./images/color-wheel.png",
                           class: "wheel-type-image shadow-1",
                           onClick: a[0] || (a[0] = (e) => (o.value = !1)),
                         }),
@@ -3042,7 +3042,7 @@
                       ]),
                       (0, t._)("div", oe, [
                         (0, t._)("img", {
-                          src: "./image/chocolate-chip-cookie.jpg",
+                          src: "./images/chocolate-chip-cookie.jpg",
                           class: "wheel-type-image shadow-1",
                           onClick: a[2] || (a[2] = (e) => (o.value = !0)),
                         }),
@@ -3667,7 +3667,7 @@
                         h.value.coverImageType ||
                         ((h.value.coverImageType = "gallery"),
                           (h.value.coverImageName =
-                            "./image/chocolate-chip-cookie.jpg")))
+                            "./images/chocolate-chip-cookie.jpg")))
                       : (h.value.type = "color");
                   },
                 }),
@@ -3680,7 +3680,7 @@
                     ? h.value.coverImageName
                     : "uploaded" == h.value.coverImageType
                       ? h.value.customCoverImageDataUri
-                      : "./image/none.png"
+                      : "./images/none.png"
                 );
               function S() {
                 (h.value = l.getters.wheelConfig.clone()),
@@ -3719,7 +3719,7 @@
               }
               function B() {
                 (h.value.pictureType = "none"),
-                  (h.value.galleryPicture = "./image/none.png"),
+                  (h.value.galleryPicture = "./images/none.png"),
                   (h.value.customPictureName = ""),
                   (h.value.customPictureDataUri = ""),
                   (h.value.centerText = "");
@@ -3733,7 +3733,7 @@
               }
               function V(e) {
                 (h.value.pictureType = "text"),
-                  (h.value.galleryPicture = "./image/none.png"),
+                  (h.value.galleryPicture = "./images/none.png"),
                   (h.value.customPictureName = ""),
                   (h.value.customPictureDataUri = ""),
                   (h.value.centerText = e),
@@ -5134,12 +5134,12 @@
         const N = { class: "q-gutter-sm q-mb-md" },
           Q = (0, t._)(
             "img",
-            { src: "./image/background-image-icon.png" },
+            { src: "./images/background-image-icon.png" },
             null,
             -1
           ),
-          H = (0, t._)("img", { src: "./image/center-image-icon.png" }, null, -1),
-          z = (0, t._)("img", { src: "./image/slice-image-icon.png" }, null, -1),
+          H = (0, t._)("img", { src: "./images/center-image-icon.png" }, null, -1),
+          z = (0, t._)("img", { src: "./images/slice-image-icon.png" }, null, -1),
           M = {
             setup(e) {
               const a = (0, i.oR)(),

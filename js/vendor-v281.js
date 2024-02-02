@@ -3714,7 +3714,7 @@ PERFORMANCE OF THIS SOFTWARE.
               var n = null;
               e.j && (n = null);
               var r = b(e.jb, e);
-              n || (n = new Ut("//www.google.com./image/cleardot.gif"),
+              n || (n = new Ut("//www.google.com./images/cleardot.gif"),
               u.location && "http" == u.location.protocol || Yt(n, "https"),
               Qt(n)),
               Fn(n.toString(), r)

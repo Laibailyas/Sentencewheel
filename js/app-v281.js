@@ -977,7 +977,7 @@
             },
             mutations: {
               setUserPhotoUrl(e, t) {
-                e.userPhotoUrl = t || "./image/user_profile.png";
+                e.userPhotoUrl = t || "./images/user_profile.png";
               },
               setUserDisplayName(e, t) {
                 e.userDisplayName = t;
@@ -2882,7 +2882,7 @@
               (this.pictureType = "none"),
               (this.coverImageType = ""),
               (this.coverImageName = ""),
-              (this.galleryPicture = "./image/none.png"),
+              (this.galleryPicture = "./images/none.png"),
               (this.customPictureName = ""),
               (this.customPictureDataUri = ""),
               (this.customCoverImageDataUri = ""),
@@ -2963,7 +2963,7 @@
           }
           getWheelImage() {
             return "none" == this.pictureType
-              ? "./image/none.png"
+              ? "./images/none.png"
               : "gallery" == this.pictureType && this.galleryPicture
               ? this.galleryPicture
               : ("uploaded" != this.pictureType &&

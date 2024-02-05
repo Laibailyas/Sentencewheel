@@ -63,7 +63,7 @@
           {
             width: "38",
             height: "38",
-            src: "./images/logo-dark-background-38.png",
+            src: "/images/logo-dark-background-38.png",
           },
           null,
           -1
@@ -85,7 +85,7 @@
                 d = (0, u.tv)(),
                 { t: m, locale: w } = (0, r.QT)(),
                 h = (0, c.Z)(),
-                f = "Wheel of Names",
+                f = "wheelofnames.com",
                 v = (0, t.Fl)(() => "/" + (0, p.getNonEnglishLocale)(w.value)),
                 g = (0, t.Fl)(() => h.fullscreen.isActive),
                 k = (0, t.Fl)(() => a.getters.wheelIsBusy),
@@ -4478,7 +4478,7 @@
                                         type: "image",
                                         style: { height: "40px" },
                                         alt: "Sign in with Google",
-                                        src: "./images/btn_google_signin_dark_normal_web@2x.png",
+                                        src: "/images/btn_google_signin_dark_normal_web@2x.png",
                                         onClick: l[1] || (l[1] = (e) => f()),
                                       }),
                                     ]),

@@ -19,7 +19,7 @@
         l(40702), l(46727);
         var t = l(16707);
         const n = JSON.parse(
-          '{"sounds.Sound effects":{"sounds.Ticking sound":{"value":"ticking-sound"},"sounds.No sound":{"value":"no-sound"},"sounds.Random music":{"value":"random-music"},"sounds.Drum roll":{"value":"drum-roll","musicFile":"./sounds/043293151-drum-roll-cymbal-crash-end.mp3"}},"sounds.Winter holidays":{"Auld lang syne":{"value":"auld-lang-syne","musicFile":"./sounds/auld-lang-syne-shutterstock.mp3"},"Christmas energy":{"value":"christmas-energy","musicFile":"./sounds/christmas-energy-shutterstock.mp3"},"Christmas soul":{"value":"christmas-soul","musicFile":"./sounds/christmas-soul-shutterstock.mp3"},"Crispy snow":{"value":"crispy-snow","musicFile":"./sounds/crispy-snow-shutterstock.mp3"},"Deck the hall":{"value":"winter-holiday-music","musicFile":"./sounds/157_short2_deck-the-hall_0032.mp3"},"Dreidel song":{"value":"hanukkah-music","musicFile":"./sounds/251_short2_dreidel-song_0031.mp3"},"Holiday bustle":{"value":"holiday-bustle","musicFile":"./sounds/holiday-bustle-shutterstock.mp3"},"Jolly old Saint Nicholas":{"value":"jolly-old-saint-nicholas","musicFile":"./sounds/jolly-old-saint-nicholas-shutterstock.mp3"},"Log cabin Christmas":{"value":"log-cabin-christmas","musicFile":"./sounds/log-cabin-christmas-shutterstock.mp3"},"New Year\'s resolution":{"value":"new-years-resolution","musicFile":"./sounds/new-years-resolution-shutterstock.mp3"},"Nutcracker":{"value":"nutcracker","musicFile":"./sounds/050375347-tchaikovsky-nutcracker-op-71a-.mp3"},"Oh Christmas tree":{"value":"christmas-music","musicFile":"./sounds/oh-christmas-tree-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random winter holidays":{"value":"random: Winter holidays"}},"sounds.Pop music":{"A better life":{"value":"a-better-life","musicFile":"./sounds/a-better-life-shutterstock.mp3"},"Beyond the cloudy sky":{"value":"beyond-the-cloudy-sky","musicFile":"./sounds/beyond-the-cloudy-sky-shutterstock.mp3"},"Floor breaker":{"value":"floor-breaker","musicFile":"./sounds/floor-breaker-shutterstock.mp3"},"Fun times all the time":{"value":"fun-times-all-the-time","musicFile":"./sounds/fun-times-all-the-time-shutterstock.mp3"},"Heaven\'s smile":{"value":"heavens-smile","musicFile":"./sounds/heavens-smile-shutterstock.mp3"},"Life of Riley":{"value":"cheerful-music","musicFile":"./sounds/life-of-riley-by-kevin-macleod-from-filmmusic-io.mp3"},"Lush life":{"value":"lush-life","musicFile":"./sounds/lush-life-shutterstock.mp3"},"Make the drive":{"value":"make-the-drive","musicFile":"./sounds/make-the-drive-shutterstock.mp3"},"Spaceship":{"value":"spaceship","musicFile":"./sounds/258_short2_spaceship_0035.mp3"},"Time and time again":{"value":"time-and-time-again","musicFile":"./sounds/time-and-time-again-shutterstock.mp3"},"Vibrance":{"value":"vibrance","musicFile":"./sounds/vibrance-shutterstock.mp3"},"We can\'t slow down":{"value":"we-can-t-slow-down","musicFile":"./sounds/329_short2_we-can-t-slow-down_0029.mp3"},"sounds.Random pop music":{"value":"random: Pop music"}},"sounds.Easy listening":{"A simple way to be happy":{"value":"a-simple-way-to-be-happy","musicFile":"./sounds/a-simple-way-to-be-happy-shutterstock.mp3"},"Genius minds":{"value":"genius-minds","musicFile":"./sounds/genius-minds-shutterstock.mp3"},"Glitter blast":{"value":"relaxing-music","musicFile":"./sounds/glitter-blast-by-kevin-macleod-from-filmmusic-io.mp3"},"Groundwork":{"value":"groundwork","musicFile":"./sounds/groundwork-by-kevin-macleod-from-filmmusic-io.mp3"},"Happy bee":{"value":"happy-bee","musicFile":"./sounds/happy-bee-by-kevin-macleod-from-filmmusic-io.mp3"},"Happy whistling ukulele":{"value":"whistling","musicFile":"./sounds/happy-whistling-ukulele--by-rafael-krux-from-filmmusic-io.mp3"},"Inspiration":{"value":"inspiration","musicFile":"./sounds/inspiration--by-rafael-krux-from-filmmusic-io.mp3"},"Lucky in life":{"value":"lucky-in-life","musicFile":"./sounds/lucky-in-life-shutterstock.mp3"},"Upbeat forever":{"value":"ska-music","musicFile":"./sounds/upbeat-forever-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random easy listening":{"value":"random: Easy listening"}},"sounds.Cinematic music":{"Enter sentinel":{"value":"enter-sentinel","musicFile":"./sounds/enter-sentinel-shutterstock.mp3"},"Fire with fire":{"value":"fire-with-fire","musicFile":"./sounds/fire-with-fire-shutterstock.mp3"},"Midnight diving":{"value":"midnight-diving","musicFile":"./sounds/midnight-diving-shutterstock.mp3"},"Strength of the Titans":{"value":"dramatic-music","musicFile":"./sounds/strength-of-the-titans-by-kevin-macleod-from-filmmusic-io.mp3"},"Ripples in time":{"value":"romantic-music","musicFile":"./sounds/514_short2_ripples-in-time_0031.mp3"},"Wretched destroyer":{"value":"spooky-music","musicFile":"./sounds/wretched-destroyer-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random cinematic music":{"value":"random: Cinematic music"}},"Reggae & Reggaeton":{"BehBuBah":{"value":"behbubah-music","musicFile":"./sounds/258_short2_behbubah_0030.mp3"},"Cairo reggaeton":{"value":"cairo-reggaeton","musicFile":"./sounds/cairo-reggaeton-shutterstock.mp3"},"Dancing monkey":{"value":"dancing-monkey","musicFile":"./sounds/dancing-monkey-shutterstock.mp3"},"Easy jam":{"value":"reggae-music","musicFile":"./sounds/easy-jam-by-kevin-macleod-from-filmmusic-io.mp3"},"Steel drum":{"value":"steel-drum","musicFile":"./sounds/steel-drum-shutterstock.mp3"},"Sun island waves":{"value":"reggaeton-music","musicFile":"./sounds/406_short2_sun-island-waves_0033.mp3"},"sounds.Random reggae & reggaeton":{"value":"random: Reggae & Reggaeton"}},"8-Bit":{"8-Bits racing car game theme":{"value":"video-game-music","musicFile":"./sounds/47_short2_8-bits-racing-car-game-theme_0029.mp3"},"Game of rings":{"value":"game-of-rings","musicFile":"./sounds/game-of-rings-shutterstock.mp3"},"Sweet tale":{"value":"sweet-tale","musicFile":"./sounds/sweet-tale-shutterstock.mp3"},"sounds.Random 8-Bit":{"value":"random: 8-Bit"}},"Folk":{"Banjo bonanza":{"value":"banjo-bonanza","musicFile":"./sounds/052704714-bluegrass-banjo-bonanza.mp3"},"Falling leaf":{"value":"falling-leaf","musicFile":"./sounds/falling-leaf-shutterstock.mp3"},"Meeting the backcountry":{"value":"meeting-the-backcountry","musicFile":"./sounds/meeting-the-backcountry-shutterstock.mp3"},"Steel and gold":{"value":"steel-and-gold","musicFile":"./sounds/steel-and-gold-shutterstock.mp3"},"Uke can swing":{"value":"uke-can-swing","musicFile":"./sounds/uke-can-swing-shutterstock.mp3"},"Window of opportunity":{"value":"window-of-opportunity","musicFile":"./sounds/window-of-opportunity-shutterstock.mp3"},"sounds.Random folk music":{"value":"random: Folk"}},"sounds.Silent film score":{"Amazing plan":{"value":"piano-music","musicFile":"./sounds/amazing-plan-by-kevin-macleod-from-filmmusic-io.mp3"},"Le grand chase":{"value":"fast-piano-music","musicFile":"./sounds/le-grand-chase-by-kevin-macleod-from-filmmusic-io.mp3"},"Merry-go-round":{"value":"merry-go-round","musicFile":"./sounds/merry-go-by-kevin-macleod-from-filmmusic-io.mp3"},"Super circus":{"value":"circus-music","musicFile":"./sounds/super-circus-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random silent film score":{"value":"random: Silent film score"}},"Dance & Techno":{"Crazy clown":{"value":"crazy-clown","musicFile":"./sounds/223_short3_crazy-clown_0064.mp3"},"Defiant dance":{"value":"defiant-dance","musicFile":"./sounds/defiant-dance-shutterstock.mp3"},"Give me that":{"value":"give-me-that","musicFile":"./sounds/give-me-that-shutterstock.mp3"},"Move forward":{"value":"move-forward","musicFile":"./sounds/move-forward-shutterstock.mp3"},"Overclock":{"value":"drum-n-bass-music","musicFile":"./sounds/382_short3_overclock_0064.mp3"},"Race for survival":{"value":"race-for-survival","musicFile":"./sounds/race-for-survival-shutterstock.mp3"},"Raving energy":{"value":"edm-music","musicFile":"./sounds/raving-energy-faster-by-kevin-macleod-from-filmmusic-io.mp3"},"So bright":{"value":"so-bright","musicFile":"./sounds/so-bright-shutterstock.mp3"},"Strike out":{"value":"strike-out","musicFile":"./sounds/strike-out-shutterstock.mp3"},"Whistle & flow":{"value":"whistle-and-flow","musicFile":"./sounds/whistle-and-flow-shutterstock.mp3"},"sounds.Random dance & techno":{"value":"random: Dance & Techno"}},"Hip hop":{"Bananas":{"value":"bananas","musicFile":"./sounds/bananas-shutterstock.mp3"},"Drop zone":{"value":"drop-zone","musicFile":"./sounds/drop-zone-shutterstock.mp3"},"Gassed up":{"value":"gassed-up","musicFile":"./sounds/gassed-up-shutterstock.mp3"},"Going all the way":{"value":"going-all-the-way","musicFile":"./sounds/going-all-the-way-shutterstock.mp3"},"Hard trap bounce":{"value":"hard-trap-bounce","musicFile":"./sounds/hard-trap-bounce-shutterstock.mp3"},"Ice cream truck":{"value":"ice-cream-truck","musicFile":"./sounds/ice-cream-truck-shutterstock.mp3"},"It\'s alive":{"value":"its-alive","musicFile":"./sounds/its-alive-shutterstock.mp3"},"Put your hand up":{"value":"put-your-hand-up","musicFile":"./sounds/put-your-hand-up-shutterstock.mp3"},"Ready for some action":{"value":"ready-for-some-action","musicFile":"./sounds/ready-for-some-action-shutterstock.mp3"},"The trap mission":{"value":"the-trap-mission","musicFile":"./sounds/the-trap-mission-shutterstock.mp3"},"sounds.Random hip hop":{"value":"random: Hip hop"}},"Disco":{"Mexican jackpot":{"value":"mexican-jackpot","musicFile":"./sounds/mexican-jackpot-shutterstock.mp3"},"Ocean wave":{"value":"ocean-wave","musicFile":"./sounds/ocean-wave-shutterstock.mp3"},"Saturn airlines":{"value":"saturn-airlines","musicFile":"./sounds/saturn-airlines-shutterstock.mp3"},"Stringed disco":{"value":"disco-music","musicFile":"./sounds/stringed-disco-by-kevin-macleod-from-filmmusic-io.mp3"},"Vintage disco":{"value":"vintage-disco","musicFile":"./sounds/vintage-disco-shutterstock.mp3"},"sounds.Random disco":{"value":"random: Disco"}},"Electronica":{"Ambient chillhop groove":{"value":"ambient-chillhop-groove","musicFile":"./sounds/ambient-chillhop-groove-shutterstock.mp3"},"Beautiful Yumiko":{"value":"beautiful-yumiko","musicFile":"./sounds/beautiful-yumiko-shutterstock.mp3"},"Better better":{"value":"better-better","musicFile":"./sounds/better-better-shutterstock.mp3"},"Deep and dirty":{"value":"dubstep-music","musicFile":"./sounds/deep-and-dirty-by-kevin-macleod-from-filmmusic-io.mp3"},"On TV":{"value":"on-tv","musicFile":"./sounds/on-tv-shutterstock.mp3"},"Phat sketch":{"value":"elevator-hip-hop","musicFile":"./sounds/phat-sketch-by-kevin-macleod-from-filmmusic-io.mp3"},"Science technology ambient":{"value":"science-technology-ambient","musicFile":"./sounds/061241762-science-technology-ambient-bac.mp3"},"Son of a rocket":{"value":"grooving","musicFile":"./sounds/son-of-a-rocket-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random electronica":{"value":"random: Electronica"}},"Funk":{"Bounce like this":{"value":"bounce-like-this","musicFile":"./sounds/bounce-like-this-shutterstock.mp3"},"Celebration":{"value":"funk-music","musicFile":"./sounds/celebration-by-kevin-macleod-from-filmmusic-io.mp3"},"Funk overflow":{"value":"funk-overflow","musicFile":"./sounds/funk-overflow-shutterstock.mp3"},"Funk the buzz":{"value":"funk-the-buzz","musicFile":"./sounds/239_short2_funk-the-buzz_0030.mp3"},"Like we do it":{"value":"like-we-do-it","musicFile":"./sounds/339_short2_like-we-do-it_0032.mp3"},"sounds.Random funk":{"value":"random: Funk"}},"Ballroom dancing":{"Happy happy game show":{"value":"game-show-music","musicFile":"./sounds/happy-happy-game-show-by-kevin-macleod-from-filmmusic-io.mp3"},"Lobby time":{"value":"lobby-music","musicFile":"./sounds/lobby-time-by-kevin-macleod-from-filmmusic-io.mp3"},"The ballroom waltz":{"value":"the-ballroom-waltz","musicFile":"./sounds/the-ballroom-waltz-shutterstock.mp3"},"sounds.Random ballroom dancing":{"value":"random: Ballroom dancing"}},"sounds.Rock music":{"Give it a try":{"value":"give-it-a-try","musicFile":"./sounds/279_short2_give-it-a-try_0030.mp3"},"In love with the good life":{"value":"in-love-with-the-good-life","musicFile":"./sounds/339_short2_in-love-with-the-good-life_0030.mp3"},"Irrepressible fight again":{"value":"grunge","musicFile":"./sounds/irrepressible-fight-again-by-winniethemoog-from-filmmusic-io.mp3"},"Learn to believe it":{"value":"learn-to-believe-it","musicFile":"./sounds/learn-to-believe-it-shutterstock.mp3"},"Pumping car chase":{"value":"pumping-car-chase","musicFile":"./sounds/117973188-pumping-industrial-metal-car-c.mp3"},"Welcome to the show":{"value":"rock-music","musicFile":"./sounds/welcome-to-the-show-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random rock music":{"value":"random: Rock music"}},"sounds.World music":{"Arabic celebration":{"value":"arabic-celebration","musicFile":"./sounds/408_short2_arabic-celebration_0030.mp3"},"Ban ban":{"value":"ban-ban","musicFile":"./sounds/ban-ban-shutterstock.mp3"},"Banda macho":{"value":"mexican-music","musicFile":"./sounds/345_short2_banda-macho_0034.mp3"},"Dance of the harpy":{"value":"duduk-oud-and-dumbek","musicFile":"./sounds/241_short2_dance-of-the-harpy_0030.mp3"},"Dance with the moon":{"value":"dance-with-the-moon","musicFile":"./sounds/dance-with-the-moon-shutterstock.mp3"},"Desert sand":{"value":"desert-sand","musicFile":"./sounds/desert-sand-shutterstock.mp3"},"Diwali":{"value":"bollywood-music","musicFile":"./sounds/271_short2_diwali_0033.mp3"},"Every heartbeat":{"value":"every-heartbeat","musicFile":"./sounds/every-heartbeat-shutterstock.mp3"},"Galway":{"value":"irish-folk-music","musicFile":"./sounds/galway-by-kevin-macleod-from-filmmusic-io.mp3"},"Great Wall of China":{"value":"great-wall-of-china","musicFile":"./sounds/12_short2_great-wall-of-china_0040.mp3"},"Kage":{"value":"kage","musicFile":"./sounds/kage-shutterstock.mp3"},"Khaek mon Thai":{"value":"khaek-mon-thai","musicFile":"./sounds/khaek-mon-thai-shutterstock.mp3"},"Italy swing":{"value":"italy-swing","musicFile":"./sounds/103865838-italy-swing.mp3"},"Ma re lah":{"value":"ma-re-lah","musicFile":"./sounds/ma-re-lah-shutterstock.mp3"},"Modern India":{"value":"modern-india","musicFile":"./sounds/438_short2_modern-india_0033.mp3"},"Serviko":{"value":"greek-music","musicFile":"./sounds/402_short2_serviko_0029.mp3"},"Verano sensual":{"value":"south-american-music","musicFile":"./sounds/verano-sensual-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random world music":{"value":"random: World music"}},"Rockabilly":{"Lone heart blues":{"value":"lone-heart-blues","musicFile":"./sounds/lone-heart-blues-shutterstock.mp3"},"Whiskey bar":{"value":"whiskey-bar","musicFile":"./sounds/whiskey-bar-shutterstock.mp3"},"Dark pathways":{"value":"dark-pathways","musicFile":"./sounds/dark-pathways-shutterstock.mp3"},"sounds.Random rockabilly":{"value":"random: Rockabilly"}},"Polka":{"Festive polka":{"value":"festive-polka","musicFile":"./sounds/polka-shutterstock.mp3"},"Tada polka":{"value":"polka","musicFile":"./sounds/tada-polka-by-philip-rice-from-filmmusic-io.mp3"},"Tiroler polka":{"value":"tiroler-polka","musicFile":"./sounds/tiroler-polka-shutterstock.mp3"},"sounds.Random polka":{"value":"random: Polka"}},"Retro-Rock":{"Fashion power":{"value":"fashion-power","musicFile":"./sounds/fashion-power-shutterstock.mp3"},"Groovy shoes":{"value":"groovy-shoes","musicFile":"./sounds/groovy-shoes-shutterstock.mp3"},"Small fry":{"value":"small-fry","musicFile":"./sounds/small-fry-shutterstock.mp3"},"Surf wax":{"value":"surf-pop-music","musicFile":"./sounds/136_short2_surf-wax_0033.mp3"},"Surfing waves":{"value":"surfing-waves","musicFile":"./sounds/surfing-waves-shutterstock.mp3"},"sounds.Random retro-rock":{"value":"random: Retro-Rock"}}}'
+          '{"sounds.Sound effects":{"sounds.Ticking sound":{"value":"ticking-sound"},"sounds.No sound":{"value":"no-sound"},"sounds.Random music":{"value":"random-music"},"sounds.Drum roll":{"value":"drum-roll","musicFile":"/sounds/043293151-drum-roll-cymbal-crash-end.mp3"}},"sounds.Winter holidays":{"Auld lang syne":{"value":"auld-lang-syne","musicFile":"/sounds/auld-lang-syne-shutterstock.mp3"},"Christmas energy":{"value":"christmas-energy","musicFile":"/sounds/christmas-energy-shutterstock.mp3"},"Christmas soul":{"value":"christmas-soul","musicFile":"/sounds/christmas-soul-shutterstock.mp3"},"Crispy snow":{"value":"crispy-snow","musicFile":"/sounds/crispy-snow-shutterstock.mp3"},"Deck the hall":{"value":"winter-holiday-music","musicFile":"/sounds/157_short2_deck-the-hall_0032.mp3"},"Dreidel song":{"value":"hanukkah-music","musicFile":"/sounds/251_short2_dreidel-song_0031.mp3"},"Holiday bustle":{"value":"holiday-bustle","musicFile":"/sounds/holiday-bustle-shutterstock.mp3"},"Jolly old Saint Nicholas":{"value":"jolly-old-saint-nicholas","musicFile":"/sounds/jolly-old-saint-nicholas-shutterstock.mp3"},"Log cabin Christmas":{"value":"log-cabin-christmas","musicFile":"/sounds/log-cabin-christmas-shutterstock.mp3"},"New Year\'s resolution":{"value":"new-years-resolution","musicFile":"/sounds/new-years-resolution-shutterstock.mp3"},"Nutcracker":{"value":"nutcracker","musicFile":"/sounds/050375347-tchaikovsky-nutcracker-op-71a-.mp3"},"Oh Christmas tree":{"value":"christmas-music","musicFile":"/sounds/oh-christmas-tree-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random winter holidays":{"value":"random: Winter holidays"}},"sounds.Pop music":{"A better life":{"value":"a-better-life","musicFile":"/sounds/a-better-life-shutterstock.mp3"},"Beyond the cloudy sky":{"value":"beyond-the-cloudy-sky","musicFile":"/sounds/beyond-the-cloudy-sky-shutterstock.mp3"},"Floor breaker":{"value":"floor-breaker","musicFile":"/sounds/floor-breaker-shutterstock.mp3"},"Fun times all the time":{"value":"fun-times-all-the-time","musicFile":"/sounds/fun-times-all-the-time-shutterstock.mp3"},"Heaven\'s smile":{"value":"heavens-smile","musicFile":"/sounds/heavens-smile-shutterstock.mp3"},"Life of Riley":{"value":"cheerful-music","musicFile":"/sounds/life-of-riley-by-kevin-macleod-from-filmmusic-io.mp3"},"Lush life":{"value":"lush-life","musicFile":"/sounds/lush-life-shutterstock.mp3"},"Make the drive":{"value":"make-the-drive","musicFile":"/sounds/make-the-drive-shutterstock.mp3"},"Spaceship":{"value":"spaceship","musicFile":"/sounds/258_short2_spaceship_0035.mp3"},"Time and time again":{"value":"time-and-time-again","musicFile":"/sounds/time-and-time-again-shutterstock.mp3"},"Vibrance":{"value":"vibrance","musicFile":"/sounds/vibrance-shutterstock.mp3"},"We can\'t slow down":{"value":"we-can-t-slow-down","musicFile":"/sounds/329_short2_we-can-t-slow-down_0029.mp3"},"sounds.Random pop music":{"value":"random: Pop music"}},"sounds.Easy listening":{"A simple way to be happy":{"value":"a-simple-way-to-be-happy","musicFile":"/sounds/a-simple-way-to-be-happy-shutterstock.mp3"},"Genius minds":{"value":"genius-minds","musicFile":"/sounds/genius-minds-shutterstock.mp3"},"Glitter blast":{"value":"relaxing-music","musicFile":"/sounds/glitter-blast-by-kevin-macleod-from-filmmusic-io.mp3"},"Groundwork":{"value":"groundwork","musicFile":"/sounds/groundwork-by-kevin-macleod-from-filmmusic-io.mp3"},"Happy bee":{"value":"happy-bee","musicFile":"/sounds/happy-bee-by-kevin-macleod-from-filmmusic-io.mp3"},"Happy whistling ukulele":{"value":"whistling","musicFile":"/sounds/happy-whistling-ukulele--by-rafael-krux-from-filmmusic-io.mp3"},"Inspiration":{"value":"inspiration","musicFile":"/sounds/inspiration--by-rafael-krux-from-filmmusic-io.mp3"},"Lucky in life":{"value":"lucky-in-life","musicFile":"/sounds/lucky-in-life-shutterstock.mp3"},"Upbeat forever":{"value":"ska-music","musicFile":"/sounds/upbeat-forever-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random easy listening":{"value":"random: Easy listening"}},"sounds.Cinematic music":{"Enter sentinel":{"value":"enter-sentinel","musicFile":"/sounds/enter-sentinel-shutterstock.mp3"},"Fire with fire":{"value":"fire-with-fire","musicFile":"/sounds/fire-with-fire-shutterstock.mp3"},"Midnight diving":{"value":"midnight-diving","musicFile":"/sounds/midnight-diving-shutterstock.mp3"},"Strength of the Titans":{"value":"dramatic-music","musicFile":"/sounds/strength-of-the-titans-by-kevin-macleod-from-filmmusic-io.mp3"},"Ripples in time":{"value":"romantic-music","musicFile":"/sounds/514_short2_ripples-in-time_0031.mp3"},"Wretched destroyer":{"value":"spooky-music","musicFile":"/sounds/wretched-destroyer-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random cinematic music":{"value":"random: Cinematic music"}},"Reggae & Reggaeton":{"BehBuBah":{"value":"behbubah-music","musicFile":"/sounds/258_short2_behbubah_0030.mp3"},"Cairo reggaeton":{"value":"cairo-reggaeton","musicFile":"/sounds/cairo-reggaeton-shutterstock.mp3"},"Dancing monkey":{"value":"dancing-monkey","musicFile":"/sounds/dancing-monkey-shutterstock.mp3"},"Easy jam":{"value":"reggae-music","musicFile":"/sounds/easy-jam-by-kevin-macleod-from-filmmusic-io.mp3"},"Steel drum":{"value":"steel-drum","musicFile":"/sounds/steel-drum-shutterstock.mp3"},"Sun island waves":{"value":"reggaeton-music","musicFile":"/sounds/406_short2_sun-island-waves_0033.mp3"},"sounds.Random reggae & reggaeton":{"value":"random: Reggae & Reggaeton"}},"8-Bit":{"8-Bits racing car game theme":{"value":"video-game-music","musicFile":"/sounds/47_short2_8-bits-racing-car-game-theme_0029.mp3"},"Game of rings":{"value":"game-of-rings","musicFile":"/sounds/game-of-rings-shutterstock.mp3"},"Sweet tale":{"value":"sweet-tale","musicFile":"/sounds/sweet-tale-shutterstock.mp3"},"sounds.Random 8-Bit":{"value":"random: 8-Bit"}},"Folk":{"Banjo bonanza":{"value":"banjo-bonanza","musicFile":"/sounds/052704714-bluegrass-banjo-bonanza.mp3"},"Falling leaf":{"value":"falling-leaf","musicFile":"/sounds/falling-leaf-shutterstock.mp3"},"Meeting the backcountry":{"value":"meeting-the-backcountry","musicFile":"/sounds/meeting-the-backcountry-shutterstock.mp3"},"Steel and gold":{"value":"steel-and-gold","musicFile":"/sounds/steel-and-gold-shutterstock.mp3"},"Uke can swing":{"value":"uke-can-swing","musicFile":"/sounds/uke-can-swing-shutterstock.mp3"},"Window of opportunity":{"value":"window-of-opportunity","musicFile":"/sounds/window-of-opportunity-shutterstock.mp3"},"sounds.Random folk music":{"value":"random: Folk"}},"sounds.Silent film score":{"Amazing plan":{"value":"piano-music","musicFile":"/sounds/amazing-plan-by-kevin-macleod-from-filmmusic-io.mp3"},"Le grand chase":{"value":"fast-piano-music","musicFile":"/sounds/le-grand-chase-by-kevin-macleod-from-filmmusic-io.mp3"},"Merry-go-round":{"value":"merry-go-round","musicFile":"/sounds/merry-go-by-kevin-macleod-from-filmmusic-io.mp3"},"Super circus":{"value":"circus-music","musicFile":"/sounds/super-circus-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random silent film score":{"value":"random: Silent film score"}},"Dance & Techno":{"Crazy clown":{"value":"crazy-clown","musicFile":"/sounds/223_short3_crazy-clown_0064.mp3"},"Defiant dance":{"value":"defiant-dance","musicFile":"/sounds/defiant-dance-shutterstock.mp3"},"Give me that":{"value":"give-me-that","musicFile":"/sounds/give-me-that-shutterstock.mp3"},"Move forward":{"value":"move-forward","musicFile":"/sounds/move-forward-shutterstock.mp3"},"Overclock":{"value":"drum-n-bass-music","musicFile":"/sounds/382_short3_overclock_0064.mp3"},"Race for survival":{"value":"race-for-survival","musicFile":"/sounds/race-for-survival-shutterstock.mp3"},"Raving energy":{"value":"edm-music","musicFile":"/sounds/raving-energy-faster-by-kevin-macleod-from-filmmusic-io.mp3"},"So bright":{"value":"so-bright","musicFile":"/sounds/so-bright-shutterstock.mp3"},"Strike out":{"value":"strike-out","musicFile":"/sounds/strike-out-shutterstock.mp3"},"Whistle & flow":{"value":"whistle-and-flow","musicFile":"/sounds/whistle-and-flow-shutterstock.mp3"},"sounds.Random dance & techno":{"value":"random: Dance & Techno"}},"Hip hop":{"Bananas":{"value":"bananas","musicFile":"/sounds/bananas-shutterstock.mp3"},"Drop zone":{"value":"drop-zone","musicFile":"/sounds/drop-zone-shutterstock.mp3"},"Gassed up":{"value":"gassed-up","musicFile":"/sounds/gassed-up-shutterstock.mp3"},"Going all the way":{"value":"going-all-the-way","musicFile":"/sounds/going-all-the-way-shutterstock.mp3"},"Hard trap bounce":{"value":"hard-trap-bounce","musicFile":"/sounds/hard-trap-bounce-shutterstock.mp3"},"Ice cream truck":{"value":"ice-cream-truck","musicFile":"/sounds/ice-cream-truck-shutterstock.mp3"},"It\'s alive":{"value":"its-alive","musicFile":"/sounds/its-alive-shutterstock.mp3"},"Put your hand up":{"value":"put-your-hand-up","musicFile":"/sounds/put-your-hand-up-shutterstock.mp3"},"Ready for some action":{"value":"ready-for-some-action","musicFile":"/sounds/ready-for-some-action-shutterstock.mp3"},"The trap mission":{"value":"the-trap-mission","musicFile":"/sounds/the-trap-mission-shutterstock.mp3"},"sounds.Random hip hop":{"value":"random: Hip hop"}},"Disco":{"Mexican jackpot":{"value":"mexican-jackpot","musicFile":"/sounds/mexican-jackpot-shutterstock.mp3"},"Ocean wave":{"value":"ocean-wave","musicFile":"/sounds/ocean-wave-shutterstock.mp3"},"Saturn airlines":{"value":"saturn-airlines","musicFile":"/sounds/saturn-airlines-shutterstock.mp3"},"Stringed disco":{"value":"disco-music","musicFile":"/sounds/stringed-disco-by-kevin-macleod-from-filmmusic-io.mp3"},"Vintage disco":{"value":"vintage-disco","musicFile":"/sounds/vintage-disco-shutterstock.mp3"},"sounds.Random disco":{"value":"random: Disco"}},"Electronica":{"Ambient chillhop groove":{"value":"ambient-chillhop-groove","musicFile":"/sounds/ambient-chillhop-groove-shutterstock.mp3"},"Beautiful Yumiko":{"value":"beautiful-yumiko","musicFile":"/sounds/beautiful-yumiko-shutterstock.mp3"},"Better better":{"value":"better-better","musicFile":"/sounds/better-better-shutterstock.mp3"},"Deep and dirty":{"value":"dubstep-music","musicFile":"/sounds/deep-and-dirty-by-kevin-macleod-from-filmmusic-io.mp3"},"On TV":{"value":"on-tv","musicFile":"/sounds/on-tv-shutterstock.mp3"},"Phat sketch":{"value":"elevator-hip-hop","musicFile":"/sounds/phat-sketch-by-kevin-macleod-from-filmmusic-io.mp3"},"Science technology ambient":{"value":"science-technology-ambient","musicFile":"/sounds/061241762-science-technology-ambient-bac.mp3"},"Son of a rocket":{"value":"grooving","musicFile":"/sounds/son-of-a-rocket-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random electronica":{"value":"random: Electronica"}},"Funk":{"Bounce like this":{"value":"bounce-like-this","musicFile":"/sounds/bounce-like-this-shutterstock.mp3"},"Celebration":{"value":"funk-music","musicFile":"/sounds/celebration-by-kevin-macleod-from-filmmusic-io.mp3"},"Funk overflow":{"value":"funk-overflow","musicFile":"/sounds/funk-overflow-shutterstock.mp3"},"Funk the buzz":{"value":"funk-the-buzz","musicFile":"/sounds/239_short2_funk-the-buzz_0030.mp3"},"Like we do it":{"value":"like-we-do-it","musicFile":"/sounds/339_short2_like-we-do-it_0032.mp3"},"sounds.Random funk":{"value":"random: Funk"}},"Ballroom dancing":{"Happy happy game show":{"value":"game-show-music","musicFile":"/sounds/happy-happy-game-show-by-kevin-macleod-from-filmmusic-io.mp3"},"Lobby time":{"value":"lobby-music","musicFile":"/sounds/lobby-time-by-kevin-macleod-from-filmmusic-io.mp3"},"The ballroom waltz":{"value":"the-ballroom-waltz","musicFile":"/sounds/the-ballroom-waltz-shutterstock.mp3"},"sounds.Random ballroom dancing":{"value":"random: Ballroom dancing"}},"sounds.Rock music":{"Give it a try":{"value":"give-it-a-try","musicFile":"/sounds/279_short2_give-it-a-try_0030.mp3"},"In love with the good life":{"value":"in-love-with-the-good-life","musicFile":"/sounds/339_short2_in-love-with-the-good-life_0030.mp3"},"Irrepressible fight again":{"value":"grunge","musicFile":"/sounds/irrepressible-fight-again-by-winniethemoog-from-filmmusic-io.mp3"},"Learn to believe it":{"value":"learn-to-believe-it","musicFile":"/sounds/learn-to-believe-it-shutterstock.mp3"},"Pumping car chase":{"value":"pumping-car-chase","musicFile":"/sounds/117973188-pumping-industrial-metal-car-c.mp3"},"Welcome to the show":{"value":"rock-music","musicFile":"/sounds/welcome-to-the-show-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random rock music":{"value":"random: Rock music"}},"sounds.World music":{"Arabic celebration":{"value":"arabic-celebration","musicFile":"/sounds/408_short2_arabic-celebration_0030.mp3"},"Ban ban":{"value":"ban-ban","musicFile":"/sounds/ban-ban-shutterstock.mp3"},"Banda macho":{"value":"mexican-music","musicFile":"/sounds/345_short2_banda-macho_0034.mp3"},"Dance of the harpy":{"value":"duduk-oud-and-dumbek","musicFile":"/sounds/241_short2_dance-of-the-harpy_0030.mp3"},"Dance with the moon":{"value":"dance-with-the-moon","musicFile":"/sounds/dance-with-the-moon-shutterstock.mp3"},"Desert sand":{"value":"desert-sand","musicFile":"/sounds/desert-sand-shutterstock.mp3"},"Diwali":{"value":"bollywood-music","musicFile":"/sounds/271_short2_diwali_0033.mp3"},"Every heartbeat":{"value":"every-heartbeat","musicFile":"/sounds/every-heartbeat-shutterstock.mp3"},"Galway":{"value":"irish-folk-music","musicFile":"/sounds/galway-by-kevin-macleod-from-filmmusic-io.mp3"},"Great Wall of China":{"value":"great-wall-of-china","musicFile":"/sounds/12_short2_great-wall-of-china_0040.mp3"},"Kage":{"value":"kage","musicFile":"/sounds/kage-shutterstock.mp3"},"Khaek mon Thai":{"value":"khaek-mon-thai","musicFile":"/sounds/khaek-mon-thai-shutterstock.mp3"},"Italy swing":{"value":"italy-swing","musicFile":"/sounds/103865838-italy-swing.mp3"},"Ma re lah":{"value":"ma-re-lah","musicFile":"/sounds/ma-re-lah-shutterstock.mp3"},"Modern India":{"value":"modern-india","musicFile":"/sounds/438_short2_modern-india_0033.mp3"},"Serviko":{"value":"greek-music","musicFile":"/sounds/402_short2_serviko_0029.mp3"},"Verano sensual":{"value":"south-american-music","musicFile":"/sounds/verano-sensual-by-kevin-macleod-from-filmmusic-io.mp3"},"sounds.Random world music":{"value":"random: World music"}},"Rockabilly":{"Lone heart blues":{"value":"lone-heart-blues","musicFile":"/sounds/lone-heart-blues-shutterstock.mp3"},"Whiskey bar":{"value":"whiskey-bar","musicFile":"/sounds/whiskey-bar-shutterstock.mp3"},"Dark pathways":{"value":"dark-pathways","musicFile":"/sounds/dark-pathways-shutterstock.mp3"},"sounds.Random rockabilly":{"value":"random: Rockabilly"}},"Polka":{"Festive polka":{"value":"festive-polka","musicFile":"/sounds/polka-shutterstock.mp3"},"Tada polka":{"value":"polka","musicFile":"/sounds/tada-polka-by-philip-rice-from-filmmusic-io.mp3"},"Tiroler polka":{"value":"tiroler-polka","musicFile":"/sounds/tiroler-polka-shutterstock.mp3"},"sounds.Random polka":{"value":"random: Polka"}},"Retro-Rock":{"Fashion power":{"value":"fashion-power","musicFile":"/sounds/fashion-power-shutterstock.mp3"},"Groovy shoes":{"value":"groovy-shoes","musicFile":"/sounds/groovy-shoes-shutterstock.mp3"},"Small fry":{"value":"small-fry","musicFile":"/sounds/small-fry-shutterstock.mp3"},"Surf wax":{"value":"surf-pop-music","musicFile":"/sounds/136_short2_surf-wax_0033.mp3"},"Surfing waves":{"value":"surfing-waves","musicFile":"/sounds/surfing-waves-shutterstock.mp3"},"sounds.Random retro-rock":{"value":"random: Retro-Rock"}}}'
         ),
           s = {};
         let i, o, u;
@@ -29,232 +29,232 @@
           {
             name: "sounds.Subdued applause",
             value: "applause-sound-soft",
-            file: "./sounds/SMALL_CROWD_APPLAUSE-Yannick_Lemieux-1268806408-soft.mp3",
+            file: "/sounds/SMALL_CROWD_APPLAUSE-Yannick_Lemieux-1268806408-soft.mp3",
           },
           {
             name: "sounds.Joke punchline",
             value: "joke-punchline",
-            file: "./sounds/113191636-comedy-joke-punchline-drum-tus.mp3",
+            file: "/sounds/113191636-comedy-joke-punchline-drum-tus.mp3",
           },
           {
             name: "sounds.Announcement bell",
             value: "announcement-bell-sound",
-            file: "./sounds/053512570-bell-announcement-06.mp3",
+            file: "/sounds/053512570-bell-announcement-06.mp3",
           },
           {
             name: "sounds.Twinkling star",
             value: "twinkling-star-sound",
-            file: "./sounds/060880433-star-ding-04.mp3",
+            file: "/sounds/060880433-star-ding-04.mp3",
           },
           {
             name: "sounds.Correct answer ding",
             value: "correct-answer-ding-sound",
-            file: "./sounds/064511375-correct-answer-ding-4.mp3",
+            file: "/sounds/064511375-correct-answer-ding-4.mp3",
           },
           {
             name: "sounds.Swoosh ding",
             value: "swoosh-ding-sound",
-            file: "./sounds/065214573-swoosh-ui-success-ding-complet.mp3",
+            file: "/sounds/065214573-swoosh-ui-success-ding-complet.mp3",
           },
           {
             name: "sounds.Synth bell",
             value: "synth-bell-sound",
-            file: "./sounds/095397584-synth-bell-announcement-01.mp3",
+            file: "/sounds/095397584-synth-bell-announcement-01.mp3",
           },
           {
             name: "sounds.Notification bell",
             value: "notification-bell-sound",
-            file: "./sounds/146126341-bell-star-notification-04-slow.mp3",
+            file: "/sounds/146126341-bell-star-notification-04-slow.mp3",
           },
           {
             name: "sounds.Mystery bell",
             value: "mystery-bell-sound",
-            file: "./sounds/152715407-bell-mystery-08.mp3",
+            file: "/sounds/152715407-bell-mystery-08.mp3",
           },
           {
             name: "sounds.Microwave ding",
             value: "microwave-ding-sound",
-            file: "./sounds/041253901-microwave-oven-bell-ding-02.mp3",
+            file: "/sounds/041253901-microwave-oven-bell-ding-02.mp3",
           },
           {
             name: "sounds.Applause",
             value: "applause-sound",
-            file: "./sounds/SMALL_CROWD_APPLAUSE-Yannick_Lemieux-1268806408.mp3",
+            file: "/sounds/SMALL_CROWD_APPLAUSE-Yannick_Lemieux-1268806408.mp3",
           },
           {
             name: "sounds.Fanfare",
             value: "fanfare-sound",
-            file: "./sounds/350428__benjaminharveydesign__trumpet-fanfare.mp3",
+            file: "/sounds/350428__benjaminharveydesign__trumpet-fanfare.mp3",
           },
           {
             name: "sounds.Bell ringing",
             value: "bell-sound",
-            file: "./sounds/370743__podsburgh__winner-metal-bell-ringing-remix.mp3",
+            file: "/sounds/370743__podsburgh__winner-metal-bell-ringing-remix.mp3",
           },
           {
             name: "sounds.Cymbals",
             value: "cymbal-sound",
-            file: "./sounds/425432__trivialaccapella__18-crash-hit-soft.mp3",
+            file: "/sounds/425432__trivialaccapella__18-crash-hit-soft.mp3",
           },
           {
             name: "sounds.Thunder",
             value: "thunder",
-            file: "./sounds/076042682-huge-thunder-7.mp3",
+            file: "/sounds/076042682-huge-thunder-7.mp3",
           },
           {
             name: "sounds.Pan flute",
             value: "pan-flute",
-            file: "./sounds/090393914-western-pan-flute.mp3",
+            file: "/sounds/090393914-western-pan-flute.mp3",
           },
           {
             name: "sounds.Evil laugh",
             value: "evil-laugh",
-            file: "./sounds/137429128-evil-man-laugh-1.mp3",
+            file: "/sounds/137429128-evil-man-laugh-1.mp3",
           },
           {
             name: "sounds.Old phone ringing",
             value: "old-phone-sound",
-            file: "./sounds/274436__hockinfinger__stromberg-carlson-1543.mp3",
+            file: "/sounds/274436__hockinfinger__stromberg-carlson-1543.mp3",
           },
           {
             name: "sounds.Alarm clock",
             value: "alarm-clock-sound",
-            file: "./sounds/468081__kinoton__egg-timer-ticking-ringing.mp3",
+            file: "/sounds/468081__kinoton__egg-timer-ticking-ringing.mp3",
           },
           {
             name: "sounds.Military trumpet",
             value: "military-trumpet-sound",
-            file: "./sounds/008723787-bugle-military.mp3",
+            file: "/sounds/008723787-bugle-military.mp3",
           },
           {
             name: "sounds.Fireworks",
             value: "fireworks-sound",
-            file: "./sounds/008747751-fireworks.mp3",
+            file: "/sounds/008747751-fireworks.mp3",
           },
           {
             name: "sounds.Basketball buzzer",
             value: "basketball-buzzer-sound",
-            file: "./sounds/012744931-basketball-court-buzzer.mp3",
+            file: "/sounds/012744931-basketball-court-buzzer.mp3",
           },
           {
             name: "sounds.Hooray",
             value: "hooray-sound",
-            file: "./sounds/079197409-voice-clip-crowd-hooray.mp3",
+            file: "/sounds/079197409-voice-clip-crowd-hooray.mp3",
           },
           {
             name: "sounds.Childrens hooray",
             value: "childrens-hooray-sound",
-            file: "./sounds/010799171-children-loud-hooray.mp3",
+            file: "/sounds/010799171-children-loud-hooray.mp3",
           },
           {
             name: "sounds.Xylophone ascending",
             value: "xylophone-ascending",
-            file: "./sounds/000206355-xylophone-ascend.mp3",
+            file: "/sounds/000206355-xylophone-ascend.mp3",
           },
           {
             name: "sounds.Game win ding",
             value: "game-win-ding",
-            file: "./sounds/006143190-carnival-game-win-ding-05.mp3",
+            file: "/sounds/006143190-carnival-game-win-ding-05.mp3",
           },
           {
             name: "sounds.Horse",
             value: "horse",
-            file: "./sounds/008700295-horse.mp3",
+            file: "/sounds/008700295-horse.mp3",
           },
           {
             name: "sounds.Wolf howl",
             value: "wolf-howl",
-            file: "./sounds/008833564-wolf-howl-one-shot.mp3",
+            file: "/sounds/008833564-wolf-howl-one-shot.mp3",
           },
           {
             name: "sounds.Cartoon whistle",
             value: "cartoon-whistle",
-            file: "./sounds/008902693-whistle-cartoon.mp3",
+            file: "/sounds/008902693-whistle-cartoon.mp3",
           },
           {
             name: "sounds.Cat meow",
             value: "cat-meow",
-            file: "./sounds/010706374-cat-meow-1.mp3",
+            file: "/sounds/010706374-cat-meow-1.mp3",
           },
           {
             name: "sounds.Sad trombone",
             value: "sad-trombone",
-            file: "./sounds/012481405-cartoon-failure-3.mp3",
+            file: "/sounds/012481405-cartoon-failure-3.mp3",
           },
           {
             name: "sounds.Crash",
             value: "crash",
-            file: "./sounds/021498952-crash-comical.mp3",
+            file: "/sounds/021498952-crash-comical.mp3",
           },
           {
             name: "sounds.Ghost",
             value: "ghost",
-            file: "./sounds/026239577-burning-ghost-distant.mp3",
+            file: "/sounds/026239577-burning-ghost-distant.mp3",
           },
           {
             name: "sounds.Cinematic drum impact",
             value: "cinematic-drum-impact",
-            file: "./sounds/032165978-cinematic-drum-impact.mp3",
+            file: "/sounds/032165978-cinematic-drum-impact.mp3",
           },
           {
             name: "sounds.Water splash",
             value: "water-splash",
-            file: "./sounds/039809461-water-splash-sfx-1.mp3",
+            file: "/sounds/039809461-water-splash-sfx-1.mp3",
           },
           {
             name: "sounds.Referee whistle",
             value: "referee-whistle",
-            file: "./sounds/041918725-referee-whistle.mp3",
+            file: "/sounds/041918725-referee-whistle.mp3",
           },
           {
             name: "sounds.Dog bark",
             value: "dog-bark",
-            file: "./sounds/042791251-big-dog-single-bark.mp3",
+            file: "/sounds/042791251-big-dog-single-bark.mp3",
           },
           {
             name: "sounds.Boing",
             value: "boing",
-            file: "./sounds/043133601-cartoon-spring-boing-02.mp3",
+            file: "/sounds/043133601-cartoon-spring-boing-02.mp3",
           },
           {
             name: "sounds.Boing 2",
             value: "boing-2",
-            file: "./sounds/079311639-boing-cartoon-13.mp3",
+            file: "/sounds/079311639-boing-cartoon-13.mp3",
           },
           {
             name: "sounds.Angel choir",
             value: "angel-choir",
-            file: "./sounds/053069047-voice-heaven-angel-sound-e-maj.mp3",
+            file: "/sounds/053069047-voice-heaven-angel-sound-e-maj.mp3",
           },
           {
             name: "sounds.Lion roar",
             value: "lion-roar",
-            file: "./sounds/062570152-beast-lion-demon-roar-no-07.mp3",
+            file: "/sounds/062570152-beast-lion-demon-roar-no-07.mp3",
           },
           {
             name: "sounds.Lost game",
             value: "lost-game",
-            file: "./sounds/066475397-funny-slippery-game-over-losin.mp3",
+            file: "/sounds/066475397-funny-slippery-game-over-losin.mp3",
           },
           {
             name: "sounds.Bird chirps",
             value: "bird-chirps",
-            file: "./sounds/079311332-bird-chirp-cartoon-3.mp3",
+            file: "/sounds/079311332-bird-chirp-cartoon-3.mp3",
           },
           {
             name: "sounds.Taiko drum",
             value: "taiko-drum",
-            file: "./sounds/083962303-short-taiko-drum-jingle.mp3",
+            file: "/sounds/083962303-short-taiko-drum-jingle.mp3",
           },
           {
             name: "sounds.Horror scream",
             value: "horror-scream",
-            file: "./sounds/127118749-horror-scream-08.mp3",
+            file: "/sounds/127118749-horror-scream-08.mp3",
           },
           {
             name: "sounds.Carnival shout",
             value: "carnival-shout",
-            file: "./sounds/144838895-male-carnival-shout-1.mp3",
+            file: "/sounds/144838895-male-carnival-shout-1.mp3",
           },
           {
             name: "sounds.Read out the winning name (option 1)",
@@ -272,10 +272,10 @@
           return r;
         }
         function m(e) {
-          y("./sounds/ding.mp3", e);
+          y("/sounds/ding.mp3", e);
         }
         function h(e) {
-          y("./sounds/Tick-DeepFrozenApps-397275646.mp3", e);
+          y("/sounds/Tick-DeepFrozenApps-397275646.mp3", e);
         }
         async function p(e, a, l, t) {
           if ("read-winner-sound" == e || "read-winner-sound-2" == e) {
@@ -329,7 +329,7 @@
         function k(e, a) {
           try {
             b(S(e)),
-              "ticking-sound" == e && b("./sounds/ding.mp3"),
+              "ticking-sound" == e && b("/sounds/ding.mp3"),
               b(r.find((e) => e.value == a).file);
           } catch (l) {
             t.trackException("PreloadSoundsError", l);
@@ -1487,7 +1487,7 @@
               (e.shadowOffsetY = 4),
               (e.shadowBlur = 10),
               (e.lineWidth = this.wheelRadius - this.hubRadius + 10);
-            const t = this.imageCache.getImage("./images/brushed-metal.png");
+            const t = this.imageCache.getImage("/images/brushed-metal.png");
             (e.strokeStyle = e.createPattern(t, "repeat")),
               e.beginPath(),
               e.arc(0, 0, (this.wheelRadius + this.hubRadius) / 2, -l / 2, l / 2),
@@ -1553,54 +1553,54 @@
       },
       98578: (e, a) => {
         a.p = [
-          { fileName: "./images/autumn-leaves.jpg", title: "Autumn leaves" },
-          { fileName: "./images/beach-ball.jpg", title: "Beach ball" },
+          { fileName: "/images/autumn-leaves.jpg", title: "Autumn leaves" },
+          { fileName: "/images/beach-ball.jpg", title: "Beach ball" },
           {
-            fileName: "./images/birth-of-the-universe.jpg",
+            fileName: "/images/birth-of-the-universe.jpg",
             title: "Birth of the universe",
           },
           {
-            fileName: "./images/blue-frost-pattern.jpg",
+            fileName: "/images/blue-frost-pattern.jpg",
             title: "Blue frost pattern",
           },
           {
-            fileName: "./images/blue-glowing-vortex.jpg",
+            fileName: "/images/blue-glowing-vortex.jpg",
             title: "Blue glowing vortex",
           },
-          { fileName: "./images/blue-swirl.jpg", title: "Blue swirl" },
-          { fileName: "./images/caffe-latte.jpg", title: "Caffe latte" },
-          { fileName: "./images/cat-portrait.jpg", title: "Cat portrait" },
+          { fileName: "/images/blue-swirl.jpg", title: "Blue swirl" },
+          { fileName: "/images/caffe-latte.jpg", title: "Caffe latte" },
+          { fileName: "/images/cat-portrait.jpg", title: "Cat portrait" },
           {
-            fileName: "./images/chocolate-chip-cookie.jpg",
+            fileName: "/images/chocolate-chip-cookie.jpg",
             title: "Chocolate chip cookie",
           },
           {
-            fileName: "./images/christmas-wrapping-paper.jpg",
+            fileName: "/images/christmas-wrapping-paper.jpg",
             title: "Christmas wrapping paper",
           },
-          { fileName: "./images/disco-ball.jpg", title: "Disco ball" },
-          { fileName: "./images/dog-portrait.jpg", title: "Dog portrait" },
-          { fileName: "./images/donut.jpg", title: "Donut" },
-          { fileName: "./images/gerbera-flower.jpg", title: "Gerbera flower" },
-          { fileName: "./images/globe.jpg", title: "Globe" },
-          { fileName: "./images/green-grass.jpg", title: "Green grass" },
-          { fileName: "./images/green-leaves.jpg", title: "Green leaves" },
-          { fileName: "./images/halloween.jpg", title: "Halloween" },
-          { fileName: "./images/moon.jpg", title: "Moon" },
-          { fileName: "./images/night-sky.jpg", title: "Night sky" },
-          { fileName: "./images/orange-slice.jpg", title: "Orange slice" },
-          { fileName: "./images/palm-trees.jpg", title: "Palm trees" },
-          { fileName: "./images/rainbow.jpg", title: "Rainbow" },
-          { fileName: "./images/soccer-ball.jpg", title: "Soccer ball" },
-          { fileName: "./images/spiral-nebula.jpg", title: "Spiral nebula" },
-          { fileName: "./images/spiral-tie-dye.jpg", title: "Spiral tie-dye" },
-          { fileName: "./images/star-trails.jpg", title: "Star trails" },
-          { fileName: "./images/water-in-pool.jpg", title: "Water in pool" },
-          { fileName: "./images/water-swirl.jpg", title: "Water swirl" },
-          { fileName: "./images/whirlpool.jpg", title: "Whirlpool" },
-          { fileName: "./images/wood.jpg", title: "Wood" },
+          { fileName: "/images/disco-ball.jpg", title: "Disco ball" },
+          { fileName: "/images/dog-portrait.jpg", title: "Dog portrait" },
+          { fileName: "/images/donut.jpg", title: "Donut" },
+          { fileName: "/images/gerbera-flower.jpg", title: "Gerbera flower" },
+          { fileName: "/images/globe.jpg", title: "Globe" },
+          { fileName: "/images/green-grass.jpg", title: "Green grass" },
+          { fileName: "/images/green-leaves.jpg", title: "Green leaves" },
+          { fileName: "/images/halloween.jpg", title: "Halloween" },
+          { fileName: "/images/moon.jpg", title: "Moon" },
+          { fileName: "/images/night-sky.jpg", title: "Night sky" },
+          { fileName: "/images/orange-slice.jpg", title: "Orange slice" },
+          { fileName: "/images/palm-trees.jpg", title: "Palm trees" },
+          { fileName: "/images/rainbow.jpg", title: "Rainbow" },
+          { fileName: "/images/soccer-ball.jpg", title: "Soccer ball" },
+          { fileName: "/images/spiral-nebula.jpg", title: "Spiral nebula" },
+          { fileName: "/images/spiral-tie-dye.jpg", title: "Spiral tie-dye" },
+          { fileName: "/images/star-trails.jpg", title: "Star trails" },
+          { fileName: "/images/water-in-pool.jpg", title: "Water in pool" },
+          { fileName: "/images/water-swirl.jpg", title: "Water swirl" },
+          { fileName: "/images/whirlpool.jpg", title: "Whirlpool" },
+          { fileName: "/images/wood.jpg", title: "Wood" },
           {
-            fileName: "./images/year-of-the-tiger.jpg",
+            fileName: "/images/year-of-the-tiger.jpg",
             title: "Year of the Tiger",
           },
         ];
@@ -1612,7 +1612,7 @@
         const n = { style: { display: "flex", "align-items": "center" } },
           s = (0, t._)(
             "img",
-            { style: { height: "1.5em" }, src: "./icons/favicon-32x32.png" },
+            { style: { height: "1.5em" }, src: "/icons/favicon-32x32.png" },
             null,
             -1
           ),
@@ -3018,7 +3018,7 @@
                     (0, t._)("div", ne, [
                       (0, t._)("div", se, [
                         (0, t._)("img", {
-                          src: "./images/color-wheel.png",
+                          src: "/images/color-wheel.png",
                           class: "wheel-type-image shadow-1",
                           onClick: a[0] || (a[0] = (e) => (o.value = !1)),
                         }),
@@ -3042,7 +3042,7 @@
                       ]),
                       (0, t._)("div", oe, [
                         (0, t._)("img", {
-                          src: "./images/chocolate-chip-cookie.jpg",
+                          src: "/images/chocolate-chip-cookie.jpg",
                           class: "wheel-type-image shadow-1",
                           onClick: a[2] || (a[2] = (e) => (o.value = !0)),
                         }),
@@ -3667,7 +3667,7 @@
                         h.value.coverImageType ||
                         ((h.value.coverImageType = "gallery"),
                           (h.value.coverImageName =
-                            "./images/chocolate-chip-cookie.jpg")))
+                            "/images/chocolate-chip-cookie.jpg")))
                       : (h.value.type = "color");
                   },
                 }),
@@ -3680,7 +3680,7 @@
                     ? h.value.coverImageName
                     : "uploaded" == h.value.coverImageType
                       ? h.value.customCoverImageDataUri
-                      : "./images/none.png"
+                      : "/images/none.png"
                 );
               function S() {
                 (h.value = l.getters.wheelConfig.clone()),
@@ -3719,7 +3719,7 @@
               }
               function B() {
                 (h.value.pictureType = "none"),
-                  (h.value.galleryPicture = "./images/none.png"),
+                  (h.value.galleryPicture = "/images/none.png"),
                   (h.value.customPictureName = ""),
                   (h.value.customPictureDataUri = ""),
                   (h.value.centerText = "");
@@ -3733,7 +3733,7 @@
               }
               function V(e) {
                 (h.value.pictureType = "text"),
-                  (h.value.galleryPicture = "./images/none.png"),
+                  (h.value.galleryPicture = "/images/none.png"),
                   (h.value.customPictureName = ""),
                   (h.value.customPictureDataUri = ""),
                   (h.value.centerText = e),
@@ -5134,12 +5134,12 @@
         const N = { class: "q-gutter-sm q-mb-md" },
           Q = (0, t._)(
             "img",
-            { src: "./images/background-image-icon.png" },
+            { src: "/images/background-image-icon.png" },
             null,
             -1
           ),
-          H = (0, t._)("img", { src: "./images/center-image-icon.png" }, null, -1),
-          z = (0, t._)("img", { src: "./images/slice-image-icon.png" }, null, -1),
+          H = (0, t._)("img", { src: "/images/center-image-icon.png" }, null, -1),
+          z = (0, t._)("img", { src: "/images/slice-image-icon.png" }, null, -1),
           M = {
             setup(e) {
               const a = (0, i.oR)(),
